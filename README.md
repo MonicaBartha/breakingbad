@@ -6,3 +6,5 @@ Breaking Bad Phrases is a simple project for call an API in React Hooks.<br>
 - CSS with Emotion, styled components
 
 ### Deploy
+
+https://breakingbad-sentences.netlify.app/
